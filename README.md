@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hello World! 👋🏻<br>I’m Miguel Cruz, an 18 year old student currently pursuing a degree in Systems Analysis and Development at FAETERJ. I have recently started my journey in programming and am passionately committed to advancing my technical skills and mastering the field. <br>With fluency in English, I can easily access a broad spectrum of resources and collaborate effectively in international environments. My goal is to apply my knowledge to create innovative and efficient solutions. <br>I am actively seeking challenging opportunities that will allow me to grow professionally and make meaningful contributions to impactful projects.</p>
+<p align="left">Hello World! 👋🏻 I’m Miguel Cruz, an 18 year old student currently pursuing a degree in Systems Analysis and Development at FAETERJ. I have recently started my journey in programming and am passionately committed to advancing my technical skills and mastering the field. <br>With fluency in English, I can easily access a broad spectrum of resources and collaborate effectively in international environments. My goal is to apply my knowledge to create innovative and efficient solutions. I am actively seeking challenging opportunities that will allow me to grow professionally and make meaningful contributions to impactful projects.</p>
 
 ###
 
@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
