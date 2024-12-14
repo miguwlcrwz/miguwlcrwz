@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World! 👋🏻 I’m Miguel Cruz, an 18 year old student currently pursuing a degree in Systems Analysis and Development at FAETERJ. I have recently started my journey in programming and am passionately committed to advancing my technical skills and mastering the field. With fluency in English, I can easily access a broad spectrum of resources and collaborate effectively in international environments. My goal is to apply my knowledge to create innovative and efficient solutions. I am actively seeking challenging opportunities that will allow me to grow professionally and make meaningful contributions to impactful projects.</p>
+<p align="left">Hello World! 👋🏻 I’m Miguel Cruz, an 18 year old student currently pursuing a degree in Systems Analysis and Development. I have recently started my journey in programming and am passionately committed to advancing my technical skills and mastering the field. With fluency in English, I can easily access a broad spectrum of resources and collaborate effectively in international environments. My goal is to apply my knowledge to create innovative and efficient solutions. I am actively seeking challenging opportunities that will allow me to grow professionally and make meaningful contributions to impactful projects.</p>
 
 ###
 
